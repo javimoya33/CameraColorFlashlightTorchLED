@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Camera Color Flashlight</string>
+
+    <string name="tv_save">Save</string>
+    <string name="tv_share">Share App</string>
+    <string name="tv_value">Rate Us</string>
+
+    <string name="mensaje_foto">Place your face inside the box and take the picture.</string>
+
+    <string name="mensaje_aviso_camara">You can not activate the flashlight with the back camera.</string>
+</resources>

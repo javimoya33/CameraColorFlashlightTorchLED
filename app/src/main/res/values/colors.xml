@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="colorLetter">#75bc87</color>
+    <color name="colorBackgroundMenu">#2c2f2d</color>
+    <color name="colorBackgroundBar">#353937</color>
+    <color name="colorTextToolbar">#dddddd</color>
+
+    <color name="disable_forground_grey1">#a1a44d</color>
+    <color name="disable_forground_grey2">#4e9a57</color>
+    <color name="disable_forground_grey3">#4f8a9e</color>
+    <color name="disable_forground_grey4">#4f589e</color>
+    <color name="disable_forground_grey5">#7e4e9f</color>
+    <color name="disable_forground_grey6">#a15353</color>
+
+    <color name="disable_thumb_grey1">#71733e</color>
+    <color name="disable_thumb_grey2">#3e7342</color>
+    <color name="disable_thumb_grey3">#3e7173</color>
+    <color name="disable_thumb_grey4">#3e3f73</color>
+    <color name="disable_thumb_grey5">#663e73</color>
+    <color name="disable_thumb_grey6">#733e40</color>
+
+    <color name="enable_thumb_green1">#50d2d82b</color>
+    <color name="enable_thumb_green2">#5039c649</color>
+    <color name="enable_thumb_green3">#5039a3c6</color>
+    <color name="enable_thumb_green4">#503949c6</color>
+    <color name="enable_thumb_green5">#50742aa8</color>
+    <color name="enable_thumb_green6">#50c63939</color>
+
+    <color name="bar_enable_thumb_green1">#d2d82b</color>
+    <color name="bar_enable_thumb_green2">#39c649</color>
+    <color name="bar_enable_thumb_green3">#39a3c6</color>
+    <color name="bar_enable_thumb_green4">#3949c6</color>
+    <color name="bar_enable_thumb_green5">#742aa8</color>
+    <color name="bar_enable_thumb_green6">#c63954</color>
+</resources>

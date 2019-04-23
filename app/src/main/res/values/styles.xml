@@ -1,0 +1,54 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorBackgroundMenu</item>
+        <item name="colorPrimaryDark">@color/colorBackgroundMenu</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:textColorPrimary">@color/colorTextToolbar</item>
+    </style>
+
+    <style name="TextAppearance.AppCompat.Widget.ActionBar.Title" parent="android:style/TextAppearance">
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:fontFamily">@font/mustank</item>
+        <item name="android:textSize">25sp</item>
+    </style>
+
+    <style name="switch1" parent="AlertDialog.AppCompat.Light">
+        <item name="colorControlActivated">@color/bar_enable_thumb_green1</item>
+        <item name="colorSwitchThumbNormal">@color/disable_thumb_grey1</item>
+        <item name="android:colorForeground">@color/disable_forground_grey1</item>
+    </style>
+
+    <style name="switch2" parent="AlertDialog.AppCompat.Light">
+        <item name="colorControlActivated">@color/bar_enable_thumb_green2</item>
+        <item name="colorSwitchThumbNormal">@color/disable_thumb_grey2</item>
+        <item name="android:colorForeground">@color/disable_forground_grey2</item>
+    </style>
+
+    <style name="switch3" parent="AlertDialog.AppCompat.Light">
+        <item name="colorControlActivated">@color/bar_enable_thumb_green3</item>
+        <item name="colorSwitchThumbNormal">@color/disable_thumb_grey3</item>
+        <item name="android:colorForeground">@color/disable_forground_grey3</item>
+    </style>
+
+    <style name="switch4" parent="AlertDialog.AppCompat.Light">
+        <item name="colorControlActivated">@color/bar_enable_thumb_green4</item>
+        <item name="colorSwitchThumbNormal">@color/disable_thumb_grey4</item>
+        <item name="android:colorForeground">@color/disable_forground_grey4</item>
+    </style>
+
+    <style name="switch5" parent="AlertDialog.AppCompat.Light">
+        <item name="colorControlActivated">@color/bar_enable_thumb_green5</item>
+        <item name="colorSwitchThumbNormal">@color/disable_thumb_grey5</item>
+        <item name="android:colorForeground">@color/disable_forground_grey5</item>
+    </style>
+
+    <style name="switch6" parent="AlertDialog.AppCompat.Light">
+        <item name="colorControlActivated">@color/bar_enable_thumb_green6</item>
+        <item name="colorSwitchThumbNormal">@color/disable_thumb_grey6</item>
+        <item name="android:colorForeground">@color/disable_forground_grey6</item>
+    </style>
+
+</resources>
